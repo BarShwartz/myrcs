@@ -1,11 +1,7 @@
 [user]
-	email = ramon.fried@gmail.com
-	name = Ramon Fried
-[sendemail]
-	smtpencryption = tls
-	smtpserver = smtp.gmail.com
-	smtpuser = ramon.fried@gmail.com
-	smtpserverport = 587
+	email = Bar.Shwartz@tandemg.com
+	name = Bar Shwartz
+
 [color]
 	ui = auto
 [core]
